@@ -1,7 +1,7 @@
 # Deep-Learning-from-Scratch2
-</hr>
-『Deep Learning From Scratch ❷』 : Study Record
-
+-----
+📚『Deep Learning From Scratch ❷』 : Study Record
+<br>
 
 | 날짜 	| 진도 	| 이슈정리 |
 |---	|---	| ---|
