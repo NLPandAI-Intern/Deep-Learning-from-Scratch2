@@ -9,6 +9,9 @@
 | 2021.08.15 	|  CHAPTER 5 순환 신경망(RNN)<br>CHAPTER 6 게이트가 추가된 RNN	| 이승훈 |
 | 2021.08.22 	|  CHAPTER 7 RNN을 사용한 문장 생성<br>CHAPTER 8 어텐션	| 김유진 |
 
+
+📌 주피터 노트북 미리보기 오류가 발생하면... https://nbviewer.jupyter.org/
+
 `스터디 전`
 - 매주 공부한 내용을 주차별 폴더에 업로드하기 (md, pdf, ipynb 등 형식 및 분량 자유)
 - 잘 이해가 되지 않는 부분은 레포의 issue에 일요일 해뜨기 전까지 업로드하기
