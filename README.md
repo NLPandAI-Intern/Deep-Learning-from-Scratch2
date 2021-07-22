@@ -2,6 +2,7 @@
 </hr>
 『Deep Learning From Scratch ❷』 : Study Record
 
+
 | 날짜 	| 진도 	| 이슈정리 |
 |---	|---	| ---|
 | 2021.08.01 	|  CHAPTER 1 신경망 복습<br>CHAPTER 2 자연어와 단어의 분산 표현	| 김유진 |
